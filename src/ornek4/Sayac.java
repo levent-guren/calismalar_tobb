@@ -10,6 +10,7 @@ public class Sayac implements Runnable {
 			bekle(500);
 		}
 	}
+	// bakiye = bakiye -500;
 
 	private void bekle(int i) {
 		try {
